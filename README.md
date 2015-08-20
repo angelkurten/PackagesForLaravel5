@@ -9,3 +9,15 @@
 ##Modules##
 
  - Pinpong Modules -> [github](https://github.com/pingpong-labs/modules)
+ 
+##Permissions##
+ - Entrust -> [github](https://github.com/Zizaco/entrust)
+
+##PDFs##
+ - DomPDF -> [github](https://github.com/barryvdh/laravel-dompdf)
+ - Snappy -> [github](https://github.com/barryvdh/laravel-snappy)
+ 
+##HTML##
+ - Collective -> [github](https://github.com/LaravelCollective/html)
+ - StydeHtml -> [github](https://github.com/StydeNet/html)
+ 
