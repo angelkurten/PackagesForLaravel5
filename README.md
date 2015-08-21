@@ -1,6 +1,6 @@
 **Packages for Laravel 5**
 =====================
-*List of packages for laravel 5*
+*Recommended list of packages laravel*
 
 ## Repositories ##
 
