@@ -23,3 +23,10 @@
  
 ##Countries##
  - Laravel Countries -> [github](https://github.com/webpatser/laravel-countries)
+
+##API Tools##
+ - Laravel Api Tools -> [github](https://github.com/joselfonseca/laravel-api-tools) 
+ - Laravel oAuth2 Server -> [github](https://github.com/lucadegasperi/oauth2-server-laravel) 
+ - Fractal -> [website](http://fractal.thephpleague.com/) 
+ - JWT-Auth -> [github](https://github.com/tymondesigns/jwt-auth) 
+ 
