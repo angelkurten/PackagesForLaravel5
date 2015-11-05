@@ -23,6 +23,7 @@
  
 ##Countries##
  - Laravel Countries -> [github](https://github.com/webpatser/laravel-countries)
+ - Larvel Countries in Spanish and English -> [github](https://github.com/angelkurten/laravel-countries)
 
 ##API Tools##
  - Laravel Api Tools -> [github](https://github.com/joselfonseca/laravel-api-tools) 
